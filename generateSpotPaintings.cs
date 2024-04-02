@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class generateGrid : MonoBehaviour
+public class generateSpotPaintings : MonoBehaviour
 {
     public GameObject blockGameObject;
     public Camera mainCamera;
